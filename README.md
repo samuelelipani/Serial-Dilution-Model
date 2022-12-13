@@ -6,7 +6,7 @@ have been framed in the chemostat setting, where resources are constantly flowin
 through the system. On the other hand, both experiments and natural communities,
 like the gut microbiome, are better described as serial dilution processes,
 where resources are periodically replenished and consumed. Surprisingly, in this
-case theoretical results are scarce. The main goal of this thesis is to fill this gap.
+case theoretical results are scarce. The main goal of this project is to fill, partially, this gap.
 We study a general multispecies consumer resource model in serial dilution using
 both numerical tools and analytical techniques borrowed from disordered statistical
 physics. We find that under general conditions the number of coexisting species
